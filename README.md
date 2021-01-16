@@ -20,11 +20,14 @@ $ source ~/.bashrc<br>
 端末4$ cd catkin_ws/src
 
 ## 実装機能
+count.pyで出力されると同時に<br>
+twice.pyでも同じ文字列が１秒ごとに出力される。
 
 ## 協力者
 難波瑞季
 
 ## 動画
+https://youtu.be/RFWwwGN-qTs
 
 ## ライセンス
 GNU General Public License v3.0
