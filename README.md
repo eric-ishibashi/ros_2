@@ -1,7 +1,8 @@
 ## robosisu2
 ロボットシステム学　課題２
 
-## 内容の解説
+## 内容
+ロボットシステム学の第十回でのスライド（https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/%E3%80%80）　<br>を参考にし開発した。
 
 
 ## 環境
