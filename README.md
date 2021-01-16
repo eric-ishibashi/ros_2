@@ -10,7 +10,7 @@ OS:Ubuntu 20.04
 
 ## インストール方法/起動方法
 $ cd ~/catkin_ws/src<br>
-$ git clone
+$ git clone https://github.com/eric-ishibashi/ros_2.git <br>
 $ cd ~/catkin_was<br>
 $ catkin_make<br>
 $ source ~/.bashrc<br>
@@ -18,6 +18,8 @@ $ source ~/.bashrc<br>
 端末2$ cd catkin_ws/src<br>
 端末3$ cd catkin_ws<br>
 端末4$ cd catkin_ws/src
+
+## 実装機能
 
 ## 協力者
 難波瑞季
