@@ -8,7 +8,9 @@
 ## 環境
 OS:Ubuntu 20.04
 
-## インストール方法/動かし方
+## インストール方法/起動方法
+$ cd ~/catkin_ws/src<br>
+$ git clone
 $ cd ~/catkin_was<br>
 $ catkin_make<br>
 $ source ~/.bashrc<br>
