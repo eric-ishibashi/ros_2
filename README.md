@@ -30,6 +30,7 @@ twice.pyでも同じ文字列が１秒ごとに出力される。
 https://youtu.be/RFWwwGN-qTs
 
 ## ライセンス
-GNU General Public License v3.0
+BSD 3-Clause "New" or "Revised" License
+
 
 
