@@ -27,7 +27,7 @@ twiceでその足された数字をアウトプットする。
 難波瑞季
 
 ## 動画
-https://youtu.be/RFWwwGN-qTs
+https://youtu.be/Nr-mv_itdB4
 
 ## ライセンス
 BSD 3-Clause "New" or "Revised" License
