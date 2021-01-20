@@ -2,7 +2,7 @@
 ロボットシステム学　課題２
 
 ## 内容
-ロボットシステム学の第十回でのスライド（https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/%E3%80%80）　<br>を参考にし開発した。
+ロボットシステム学の第十回でのスライド（https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/%E3%80%80）　<br>を参考にし、足し算ができるようにした。
 
 
 ## 環境
@@ -20,8 +20,8 @@ $ source ~/.bashrc<br>
 端末4$ cd catkin_ws/src
 
 ## 実装機能
-count.pyで出力されると同時に<br>
-twice.pyでも同じ文字列が１秒ごとに出力される。
+countで足したい数字を入力させ、<br>
+twiceでその足された数字をアウトプットする。
 
 ## 協力者
 難波瑞季
